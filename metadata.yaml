@@ -1,0 +1,32 @@
+_repo: Right-Above-Race_30507
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kahn, Otto H.
+    alias: Kahn, Otto Hermann
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '33791'
+    url: http://www.gutenberg.org/2009/agents/33791
+    wikipedia: http://en.wikipedia.org/wiki/Otto_Hermann_Kahn
+description: ''
+gutenberg_issued: '2009-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30507'
+  lccn: '19002082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+tableOfContents: Americans of German origin and the war -- Prussionized Germany --
+  The poison growth of Prussianism -- Frenzied liberty -- The myth of "a rich man's
+  war" -- Letter to a German.
+title: Right Above Race
+url: http://www.gutenberg.org/ebooks/30507
